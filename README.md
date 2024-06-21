@@ -19,11 +19,11 @@ The Quiz App is an engaging and interactive application that allows users to tak
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/quiz-app.git
+    git clone https://github.com/akshat433/MyQuizApp.git
     ```
 2. Open the project in Android Studio:
     ```sh
-    cd quiz-app
+    cd MyQuizApp
     ```
 3. Build and run the project on an emulator or a physical device.
 
